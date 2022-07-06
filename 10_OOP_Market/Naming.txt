@@ -1,0 +1,2 @@
+﻿Pascal Class = first letter upper case
+Camel Case = urunFiyatı
