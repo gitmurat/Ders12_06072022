@@ -10,7 +10,7 @@ namespace _30_OOP_Market_cont
     {
         public override string Tip => "Süt";
         public override string Marka => "Pınar";
-
+        //public override decimal VergiOrani => 0.08m; GıdaUrun sınıfında vergi oranı belirlendiği için burada belirlemeye gerek yok.
         public string Hacim { get; set; }
 
         public override string BaslikBelirle()
